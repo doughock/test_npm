@@ -1,0 +1,22 @@
+{
+  "name": "test_npm",
+  "version": "1.0.0",
+  "description": "test npm from GitHub",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doughock/test_npm.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Douglass E. Hock",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/doughock/test_npm/issues"
+  },
+  "homepage": "https://github.com/doughock/test_npm#readme"
+}
